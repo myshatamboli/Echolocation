@@ -113,5 +113,6 @@ Entrepreneur, student leader, and builder passionate about leveraging technology
 Building technology that empowers people to access the information, opportunities, and support they need to thrive independently.
 
 ---
+Link:  https://echolocation.squarefire.com.mx/
 
 *"Independence begins with access."*
