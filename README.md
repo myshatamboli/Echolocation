@@ -1,6 +1,32 @@
 # Echolocation
 AI-powered venture exploring how technology can improve access to information and opportunities. Supporting the need to thrive independently.
 # Echolocation
+### 🚀 Echolocation
+
+**Building technology that adapts to people, not the other way around.**
+
+Echolocation is an accessibility-focused AI venture exploring how intelligent technology can empower greater independence for blind, visually impaired, and paraplegic individuals.
+
+The idea emerged from a simple question:
+
+> Why should people have to adapt to technology when technology could adapt to them?
+
+Through the development of **Echora**, an AI assistant concept, I am exploring how artificial intelligence can reduce barriers to information, navigation, communication, and everyday decision-making.
+
+Rather than simply providing information, the goal is to deliver it in a way that is personalised, accessible, and genuinely useful.
+
+At its core, Echolocation is about more than technology.
+
+It is about independence, accessibility, and creating solutions that enable people to navigate the world with greater confidence.
+
+**Current Focus**
+
+* Accessibility-first AI experiences
+* Personalised support and guidance
+* Information discovery and navigation
+* User-centred product design
+* Real-world social impact applications
+
 
 ### Empowering Independence Through Intelligent Technology
 
@@ -110,7 +136,7 @@ Entrepreneur, student leader, and builder passionate about leveraging technology
 
 ## Our Mission
 
-Building technology that empowers people to access the information, opportunities, and support they need to thrive independently.
+Building technology that empowers people to access the information, opportunities, and support they need to thrive independently. To build intelligent technology that removes barriers, increases independence, and helps people access the opportunities, support, and information they need to thrive.
 
 ---
 Link:  https://echolocation.squarefire.com.mx/
